@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+
+# Model files
+models/
+*.bin
+*.gguf
+*.task
+
+# Debug/log files
+debug_audio/
+*.log
